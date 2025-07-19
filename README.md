@@ -69,6 +69,9 @@ devsecops-ci-cd-pipeline-with-jenkins/
 ├── 04-icons/
 │   └── *.png
 ```
+## Visual Walkthrough
+
+View the 03-screenshots/ folder for more details and visuals of the pipeline in action.
 
 ## Reach Out At!!
 
